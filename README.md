@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Fashion Designing and AI.<br>🎯 Goals: open up a boutique.<br>🎲 Fun fact: I do well in R&D.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Fashion Designing and AI.<br>🎯 Goals: open up a boutique.<br>🎲 Fun fact: I eat a lot.</p>
 
 ###
 
