@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bairavi and I'm an AI Engineer.</p>
+<p align="left">My name is Bairavi and I'm an AI Engineer.</p> 
 
 ###
 
